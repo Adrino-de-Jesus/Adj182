@@ -1,7 +1,7 @@
 ### Hi there 👋  I'm Adriano 
 
-# Estudante de Data Science, Language Python e adoro ler !! 
-Como estudante de programação e ciência de dados, sei como extrair significado e valor dos dados para o negócio. No momento, estou me dedicando e trabalhando com soluções de ciência de dados para soluções de problemas e serviços adaptável a empresas.
+# Sou Estudante propositor, Foco em Data Science e Pyhton e adoro ler !! 
+Como estudante de programação e ciência de dados, busco me aprofundar na area de Ciencia de Dados voltado para atender ao mercado por meio das tecnologias.
 
 - 🔭Atualmente estou trabalhando no meu github
 - 🚀 Atualmente procurando um emprego
