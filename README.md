@@ -1,6 +1,6 @@
 ### Hi there 👋  I'm Adriano 
 
-# Sou Estudante propositor, Foco em Data Science e Pyhton e adoro ler !! 
+## Sou Estudante propositor, Foco em Data Science e Pyhton e adoro ler !! 
 Como estudante de programação e ciência de dados, busco me aprofundar na area de Ciencia de Dados voltado para atender ao mercado por meio das tecnologias.
 
 - 🔭Atualmente estou trabalhando no meu github
