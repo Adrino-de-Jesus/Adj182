@@ -5,7 +5,7 @@ Como estudante de programação e ciência de dados, busco me aprofundar na area
 
 - 🔭Atualmente estou trabalhando no meu github
 - 🚀 Atualmente procurando um emprego
-- 💻 Meu curriculo: https://web.dio.me/users/adriano_insight?tab=skills
+- 💻 Meu curriculo:
 - 📫 Como me contatar: adriano.insight@gmail.com
 - 👯 Procuro colaborar em projetos de pesquisa
 
